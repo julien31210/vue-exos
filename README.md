@@ -12,6 +12,7 @@ En utilisant un simple cdn :
 * Afficher la même phrase cette fois stylisée par ses balises html
 * En utilisant deux méthodes différentes, afficher une phrase si un booléen est true
 * Afficher une liste de votre choix
+
 * Lorsqu'un booléan est true, associer une classe à un élément html. Le styliser avec du css
 * Lorsqu'un booléan est true, modifier directement le style de l'élément html. Modifier la couleur et l'épaisseur de la police
 
